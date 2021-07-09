@@ -1,2 +1,2 @@
 lis=10,20
-print(sum(lis))
+print('Sum is',sum(lis))
